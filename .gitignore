@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.suo
+DMWEditor/_build
+DMWEditor/bin
+DMWEditor/obj
+OBJImporter/bin
+OBJImporter/obj
+Models
