@@ -7,6 +7,7 @@ The Digital Model Watermarking Suite (Hence DMW Suite or just DMW) is a system f
 ## Current Features
 * Embed data within model vertex data, then read later.
 * Plugin support (Custom model importers and exporters).
+ * OBJ Model Support
 * Model similarity detector.
 * Model hash checking - detects model changes.
 * Custom extensible binary model format, with support for encryption.
@@ -17,3 +18,4 @@ The Digital Model Watermarking Suite (Hence DMW Suite or just DMW) is a system f
  * Remote server could also log file movement, detecting when DMW files have been opened.
 * Additional watermarking methods - Mix and match!
 * Additional encryption schemes.
+* Additional file importers and exporters.
